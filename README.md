@@ -1,2 +1,3 @@
 # amplify-copilot
-amplify-copilot
+
+Experimenting with AWS Amplify
